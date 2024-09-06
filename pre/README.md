@@ -11,5 +11,5 @@ Books:
 
 Online lectures:
 - [Underactuated Robotics](https://underactuated.csail.mit.edu/Spring2022/schedule.html)
-- [PennX: Robotics: Dynamics and Control](https://www.edx.org/learn/robotics/university-of-pennsylvania-robotics-dynamics-and-control)
+- ~[PennX: Robotics: Dynamics and Control](https://www.edx.org/learn/robotics/university-of-pennsylvania-robotics-dynamics-and-control)~
 - [Dynamics and Control](https://learning.edx.org/course/course-v1:UPValenciaX+DC201x+1T2024/home)
