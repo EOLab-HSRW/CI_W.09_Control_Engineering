@@ -16,7 +16,7 @@ Lecture 1. Introduction
     - Open-loop
     - Closed-loop
 - Examples of control systems [Dorf-Bishop 1.3, Astrom-Murray 1.3]
-- Design process [Nise 1.5] (Nise basically in that section covers the Astrom-Murray chapter 2 in a more introductury way.)
+- Design process [Nise 1.5] (Nise basically in that section covers the Astrom-Murray chapter 2 in a more introductory way.)
     - [Dorf-Bishop Figure 1.17 offers an analog perpective to Nise]
     - [Astrom-Murray 2.3 can help to extend Step 3 of Nise "Develop a mathematical model"]
     - [Philippsen 1.10 Falls short]
