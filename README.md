@@ -1,5 +1,10 @@
 # CI_W.09 Control Engineering
 
+## Entry requirements
+
+Students have to pass:
+- CI_3.02 “Signals and systems”
+
 ## Outline
 
 
