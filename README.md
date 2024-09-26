@@ -4,6 +4,11 @@
 
 Students have to pass:
 - CI_3.02 “Signals and systems”
+    - Lecture 7: Fourier Transforms
+    - Lecture 8: System Stability
+    - Lecture 9: z-Transform
+    - Lecture 10: Laplace Transform
+    - Lecture 13: Relations between CT and DT
 
 ## Outline
 
